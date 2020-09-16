@@ -1,0 +1,13 @@
+Group	Condition	Replicate	File
+Treatment	IP	1	
+Treatment	IP	2	
+Treatment	IP	3	
+Treatment	Input	1	
+Treatment	Input	2	
+Treatment	Input	3	
+Control	IP	1	
+Control	IP	2	
+Control	IP	3	
+Control	Input	1	
+Control	Input	2	
+Control	Input	3	
