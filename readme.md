@@ -1,7 +1,7 @@
 <!---Usage of python code for RNA methylation differential analysis.
-% Edited by DNA - October 6, 2017--->
+% Edited by DNA - September 24, 2020--->
 #  **Dimer**
-Dimer (not to be confused with the [chemical molecule](https://en.wikipedia.org/wiki/Dimer_(chemistry)) stands for <b>Di</b>fferential <b>Me</b>thylation of <b>R</b>NA transcripts. Dimer is a Python-based package for testing differential methylation in MeRIP-Seq data.
+Dimer (not to be confused with the [chemical molecule](https://en.wikipedia.org/wiki/Dimer_(chemistry))) stands for <b>Di</b>fferential <b>Me</b>thylation of <b>R</b>NA transcripts. Dimer is a Python-based package for testing differential methylation in MeRIP-Seq data.
 
 ## Dependencies
 Dimer is written in Python and runs on Python (2.7 or lower). It requires the following bioinformatics and python packages installed to run successfully:
@@ -14,7 +14,7 @@ The package can be downloaded from Github and extracted directly into any direct
 ```
 download code from github
 ```
-After extracting the code, navigate to the `path_to_package/script/ folder and change permissions for the file `split_exon_ff to be executable:
+After extracting the code, navigate to the `path_to_package/script/ folder and change permissions for the file` split_exon_ff to be executable:
 ```
 chmod +x path_to_package/script/dimer
 ```
@@ -71,4 +71,4 @@ Once both tasks are completed, dimer produces three sets of files
 
 
 ## References
-**Cite our publication - mention as submitted for now and update it once accepted.**
+Ayyala D. N., Lin, J., Ouyang, Z.;  **Differential RNA Methylation using Multivariate Statistical Methods**, *submitted*.
